@@ -23,7 +23,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-[Alexa App Skill](https://www.alexa.com/help/privacy)
+- [Alexa App Skill](https://www.alexa.com/help/privacy)
 
 ### Log Data
 
