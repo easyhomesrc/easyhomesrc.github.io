@@ -83,6 +83,11 @@ ProfileId `0xC05E`
 
 <table>
 	<tr>
+		<th>Device Type</th>
+		<th>Sub Device Type</th>
+		<th>Device Id</th>
+	</tr>
+	<tr>
 		<td rowspan="6">Lighting</td>
 		<td>On/Off</td>
 		<td>0x0000</td>
