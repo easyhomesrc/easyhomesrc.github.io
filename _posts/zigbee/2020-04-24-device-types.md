@@ -1,10 +1,10 @@
 ---
 layout: post
 permalink: /zigbee/device-types/
-title:  "ZigBee - Device Types"
-post_title: "ZigBee Device Types"
-date:   2020-04-24 13:58:00 +0800
-categories: 
+title:  "Device Types"
+post_title: "ZigBee - Device Types"
+date:   2020-04-24 16:45:00 +0800
+categories: [ZigBee]
 ---
 
 用 `ProfileId` 与 `DeviceId` 区分 ZigBee 设备，不在下面列表中的设备，视为 `unknown` 设备。

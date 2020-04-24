@@ -1,10 +1,10 @@
 ---
 layout: post
 permalink: /easymesh/privacy-policy/
-title:  "EasyMesh - Privacy Policy"
-post_title: "Privacy Policy"
-date:   2020-03-31 17:51:00 +0800
-categories: 
+title:  "Privacy Policy"
+post_title: "EasyMesh - Privacy Policy"
+date:   2020-04-24 16:43:00 +0800
+categories: EasyMesh
 ---
 
 EasyMesh Team, its affiliates and subsidiaries ("we", "us", "our", "EasyMesh") are committed to protecting your privacy. This Privacy Statement ("Statement") describes our practices in connection with information privacy on personal data we process through your individual use of the following services, products, and related mobile applications (collectively, the "Products")

@@ -1,10 +1,10 @@
 ---
 layout: post
 permalink: /easythings/privacy-policy/
-title:  "EasyThings - Privacy Policy"
-post_title: "Privacy Policy"
-date:   2020-04-20 10:33:00 +0800
-categories: 
+title:  "Privacy Policy"
+post_title: "EasyThings - Privacy Policy"
+date:   2020-04-24 16:44:00 +0800
+categories: EasyThings
 ---
 
 **Privacy Policy**
