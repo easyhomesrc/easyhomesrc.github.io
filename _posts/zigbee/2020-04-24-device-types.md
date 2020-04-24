@@ -13,8 +13,8 @@ categories:
 
 <table>
 	<tr>
-		<th>Profile Id</td>
-		<th>Type</td>
+		<th>Profile Id</th>
+		<th>Type</th>
 	</tr>
 	<tr>
 		<td>0x0104</td>
@@ -25,6 +25,7 @@ categories:
 		<td>ZLL</td>
 	</tr>
 </table>
+
 
 ## ZHA Devices 
 
