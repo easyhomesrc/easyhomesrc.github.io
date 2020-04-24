@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /zigbee/device_types/
+permalink: /zigbee/device-types/
 title:  "ZigBee - Device Types"
 post_title: "ZigBee Device Types"
 date:   2020-04-24 13:58:00 +0800
