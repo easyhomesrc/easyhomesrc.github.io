@@ -9,6 +9,23 @@ categories:
 
 用 `ProfileId` 与 `DeviceId` 区分 ZigBee 设备，不在下面列表中的设备，视为 `unknown` 设备。
 
+## Profile Id
+
+<table>
+	<tr>
+		<th>Profile Id</td>
+		<th>Type</td>
+	</tr>
+	<tr>
+		<td>0x0104</td>
+		<td>ZHA</td>
+	</tr>
+	<tr>
+		<td>0xC05E</td>
+		<td>ZLL</td>
+	</tr>
+</table>
+
 ## ZHA Devices 
 
 ProfileId `0x0104`
