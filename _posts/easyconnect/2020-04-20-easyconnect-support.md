@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /easyconnect/support/
-title:  "Privacy Policy"
+title:  "Support"
 post_title: "EasyConnect - Support"
 date:   2020-04-27 16:01:00 +0800
 categories: EasyConnect
