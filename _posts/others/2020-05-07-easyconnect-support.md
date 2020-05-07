@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: /easyconnect/support/
+permalink: /support/
 title:  "Support"
-post_title: "EasyConnect - Support"
-date:   2020-04-27 16:01:00 +0800
-categories: EasyConnect
+post_title: "Support"
+date:   2020-05-07 16:33:00 +0800
+categories: Others
 ---
 
 **Contact Us**
