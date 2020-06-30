@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /easythings/privacy-policy/
+permalink: /easythings/third-party-access-service/
 title:  "Privacy Policy"
 post_title: "EasyThings - Third-party Access Service"
 date:   2020-06-30 15:36:00 +0800
