@@ -2,7 +2,7 @@
 layout: post
 permalink: /easythings/third-party-access-service/
 title:  "Third-party Access Service"
-post_title: "EasyThings - Third-party Access Service"
+post_title: "EasyThings"
 date:   2020-06-30 15:36:00 +0800
 categories: EasyThings
 ---
