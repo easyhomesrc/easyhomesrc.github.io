@@ -106,4 +106,4 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sunricher_src@163.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at maginawin@163.com.

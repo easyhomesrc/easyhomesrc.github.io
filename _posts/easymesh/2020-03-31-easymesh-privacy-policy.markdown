@@ -103,7 +103,7 @@ If you would like further detail on the safeguards we have in place, you can con
 
 We respect your rights and control over your Personal Data. You may exercise any of the following rights:
 
-- By emailing us at sunricher_src@163.com
+- By emailing us at maginawin@163.com
 
 You do not have to pay a fee for executing your personal rights. According to different data protection laws, if you are dominated in Mainland China, we will aim to respond you within 15 business days; and if you are dominated ex-Mainland China, and we will aim to respond you within 30 calendar days.
 
@@ -127,7 +127,7 @@ About Delete of the Account: You can find the Delete function through "More > De
 
 ### Security Measures
 
-We use commercially reasonable physical, administrative, and technical safeguards to preserve the integrity and security of your Personal Data. We provides various security strategies to effectively ensure data security of user and device. As for device access, we proprietary algorithms are employed to ensure data isolation, access authentication, applying for authorization. As for data communication, communication using security algorithms and transmission encryption protocols and commercial level information encryption transmission based on dynamic keys are supported. As for data processing, strict data filtering and validation and complete data audit are applied. As for data storage, all confidential information of users will be safely encrypted for storage. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you could immediately notify us of the problem by emailing sunricher_src@163.com.
+We use commercially reasonable physical, administrative, and technical safeguards to preserve the integrity and security of your Personal Data. We provides various security strategies to effectively ensure data security of user and device. As for device access, we proprietary algorithms are employed to ensure data isolation, access authentication, applying for authorization. As for data communication, communication using security algorithms and transmission encryption protocols and commercial level information encryption transmission based on dynamic keys are supported. As for data processing, strict data filtering and validation and complete data audit are applied. As for data storage, all confidential information of users will be safely encrypted for storage. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you could immediately notify us of the problem by emailing maginawin@163.com.
 
 ### Data Retention
 
@@ -141,4 +141,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sunricher_src@163.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at maginawin@163.com.

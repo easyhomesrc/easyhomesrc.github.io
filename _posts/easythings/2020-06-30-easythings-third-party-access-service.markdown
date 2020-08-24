@@ -29,5 +29,5 @@ Search with the keyword `easy things` in the Yandex App - More - Устройс�
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sunricher_src@163.com.
+If you have any questions or suggestions, do not hesitate to contact me at maginawin@163.com.
 
